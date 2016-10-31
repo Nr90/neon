@@ -299,7 +299,7 @@ data, if they do not exist. These macrobatches can then be used as direct input
 on subsequent training runs.
 
 Alternatively, users can pre-generate macrobatches using the 
-``neon.util.batch_writer.py`` script. Macrobatch datasets can be generated with this script 
+``neon.data.batch_writer.py`` script. Macrobatch datasets can be generated with this script 
 from four types of raw image sources:
 
 1. General directory structure
